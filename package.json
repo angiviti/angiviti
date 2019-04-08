@@ -17,7 +17,9 @@
     "grunt-contrib-watch": "~0.3.1"
   },
   "main": "Gruntfile.js",
-  "dependencies": {},
+  "dependencies": {
+    "angiviti": "0.0.2"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/angiviti/ng-angiviti.git"
